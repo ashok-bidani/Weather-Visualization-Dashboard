@@ -10,3 +10,4 @@ Created a web dashboard showcasing weather visualizations produced in the 'World
  - Data page: page containing a comprehensive table of the data used in this project.
 
 Here is a video demonstrating use and navigation through the dashboard.
+![Demo](https://user-images.githubusercontent.com/36421213/55038923-5a76ef00-4ff0-11e9-8df3-0a358e794d4f.gif  "dashboard demo")
